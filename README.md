@@ -24,6 +24,10 @@ It’s similar to OLX but focused only on property listings.
 
 ## 🚀 How to Run
 ### 1. Clone the repo
-```bash
+
 git clone https://github.com/Umesh042005/PropertySellingWebsite-PropertyBazaar-.git
 cd PropertyBazaar
+## 👨‍💻 Author
+**Umesh Deshmukh** – B.Tech CSE (2022–2026)  
+[GitHub Profile](https://github.com/Umesh042005)
+
