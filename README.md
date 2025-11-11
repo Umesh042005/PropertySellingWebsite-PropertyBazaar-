@@ -22,4 +22,8 @@ It’s similar to OLX but focused only on property listings.
 
 ---
 
-## 📂 Project Structure
+## 🚀 How to Run
+### 1. Clone the repo
+```bash
+git clone https://github.com/Umesh042005/PropertySellingWebsite-PropertyBazaar-.git
+cd PropertyBazaar
